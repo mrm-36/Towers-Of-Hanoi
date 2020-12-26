@@ -7,3 +7,5 @@ The game is the following:
 	is on top of a smaller disk
   
 Given the name of the three towers and the number of disks, the program will return a list of tuples indicating the moves needed to solve the problem.
+
+Check out the video on https://www.youtube.com/channel/UCzw1_BkDtDeaaq9f8PJrJmA.
